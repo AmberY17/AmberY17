@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amber Yang
-- 🌱 I’m a 1A Computer Engineering Student at University of Waterloo
+- 🌱 I’m a 2A Computer Engineering Student at University of Waterloo
 - 📫 Email Address: a227yang@uwaterloo.ca
 
 <!---
